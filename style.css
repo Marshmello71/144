@@ -1,0 +1,26 @@
+body
+{
+    background-color: lightgoldenrodyellow;
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px lightgrey;
+}
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+.coppy_right_footer
+{
+    position: fixed;
+    color: white;
+    bottom: 0px;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
